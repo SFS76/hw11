@@ -1,5 +1,3 @@
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void defineHighGradeYear(int year) {
         boolean year4 = year % 4 == 0;
@@ -14,6 +12,5 @@ public class Main {
     public static void main(String[] args) {
             int year = 2000;
             defineHighGradeYear(year);
-
     }
 }
